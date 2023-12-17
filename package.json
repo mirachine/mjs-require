@@ -1,0 +1,27 @@
+{
+  "name": "@mirachine/mjs-require",
+  "version": "1.0.0",
+  "description": "Module JS async import allows importing a module or directory using configuration-based path aliases.",
+  "main": "index.mjs",
+  "author": "mirachine",
+  "license": "MIT",
+  "directories": {
+    "example": "example"
+  },
+  "keywords": [
+    "mjs-require",
+    "require",
+    "require-directory",
+    "import",
+    "import-directory",
+    "import-cwd"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mirachine/mjs-require.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mirachine/mjs-require/issues"
+  },
+  "homepage": "https://www.npmjs.com/package/@mirachine/mjs-require"
+}
